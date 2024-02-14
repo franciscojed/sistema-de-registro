@@ -7,5 +7,9 @@ Para ejecutar el sistema, debes poner:
 
 Sistema de Registro 2
 
+```print("Hola mundo")```
+
+
+
 
 
